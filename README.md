@@ -1,6 +1,6 @@
 # My BURST Coin Link Collection
 
-Get started with this YouTube Video https://m.youtube.com/watch?v=LJLhw37Lh_8
+Get started with this YouTube Video ["How to mine BURST, plot and run wallets 2018 (UPDATED) - Burstcoin"](https://m.youtube.com/watch?v=LJLhw37Lh_8)
 
 ## BURST in general
 * Burst Homepage: https://www.burst-coin.org
