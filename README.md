@@ -36,40 +36,40 @@
 * Reddit (Mining): https://www.reddit.com/r/burstcoinmining
 * Telegram (Mining): https://t.me/BurstCoinMining
 
-### Burst Mining Pools
+### Mining Pools
 * Burst Pool Overview: https://www.ecomine.earth/burstpools
 * Burst PoCC Pools (0-100 / 50-50 / 100-0): https://burst.cryptoguru.org
 
-### Burst Plotting Benchmark
+### Plotting Benchmark
 * Burst Plotting Benchmarks Overview: https://ecomine.earth/plottingbenchmarks
 
-### Burst Plotting Software
+### Plotting Software
 * Overview: https://burstwiki.org/wiki/Plotter
 
-#### Burst CPU Plotter
+#### CPU Plotter
 * CryptoGuru Optimized BURSTcoin Unix Plotter "CG_OBUP" (Linux): https://github.com/rico666/cg_obup
 * Optimized Linux Burstcoin Plotter "OMDCCT" (Linux): https://github.com/alter3d/omdcct
 * Improved Linux BURST ploter, optimizer and miner "MDCCT" (Linux): https://github.com/Mirkic7/mdcct
 
-#### Burst GPU Plotter
+#### GPU Plotter
 * GPU plot generator (Linux): https://github.com/bhamon/gpuPlotGenerator/releases
 * XPlotter (Windows): https://github.com/Blagodarenko/XPlotter
 
-### Burst Pots Checker
+### Pots Checker
 * "PlotsChecker" (Windows): https://github.com/Blagodarenko/PlotsChecker/releases
 
-### Burst Mining Software
+### Mining Software
 
-#### Burst CPU Mining Software
+#### CPU Mining Software
 
 * Burstcoin C++ CPU and GPU Miner "creepminer" (Linux & Windows): https://github.com/Creepsky/creepMiner/releases
 * Miner for Burstcoin "miner-burst" (Windows): https://github.com/Blagodarenko/miner-burst/releases
 
-#### Burst GPU Mining Software
+#### GPU Mining Software
 * GPU assisted PoC Miner for Burstcoin "burstcoin-jminer (Linux): https://github.com/de-luxe/burstcoin-jminer/releases
 * Burstcoin C++ CPU and GPU Miner "creepminer" (Linux & Windows): https://github.com/Creepsky/creepMiner/releases
 
-### Burst Mining Rewards
+### Mining Rewards
 * Mining Calculator: https://explore.burst.cryptoguru.org/tool/calculate
 * Block Reward Overview: https://ecomine.earth/burstblockreward
 
