@@ -47,7 +47,7 @@
 * Overview: https://burstwiki.org/wiki/Plotter
 
 #### CPU Plotter
-* CryptoGuru Optimized BURSTcoin Unix Plotter "CG_OBUP", successor of "OMDCCT" (Linux): https://github.com/rico666/cg_obup
+* Recommended! CryptoGuru Optimized BURSTcoin Unix Plotter "CG_OBUP", successor of "OMDCCT" (Linux): https://github.com/rico666/cg_obup
 * Optimized Linux Burstcoin Plotter "OMDCCT", successor of "MDCCT" (Linux): https://github.com/alter3d/omdcct
 * Improved Linux BURST ploter, optimizer and miner "MDCCT" (Linux): https://github.com/Mirkic7/mdcct
 
