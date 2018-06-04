@@ -1,3 +1,5 @@
+# BURST Plotting
+
 ## Hardware
 * CPU with high plotting benchmark value: https://ecomine.earth/plottingbenchmarks
 
