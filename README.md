@@ -1,5 +1,7 @@
 # My BURST Coin Link Collection
 
+Get started with this YouTube Video https://m.youtube.com/watch?v=LJLhw37Lh_8
+
 ## BURST in general
 * Burst Homepage: https://www.burst-coin.org
 * Burst Network Explorer: http://burstcoin.cc/network
@@ -20,12 +22,15 @@
 * Burst Wallet Windows: https://github.com/PoC-Consortium/Qbundle/releases
 * Burst Wallet Windows Installation Guide: https://burstwiki.org/wiki/QBundle
 * Burst Online Wallet: https://wallet.burst.cryptoguru.org:8125/index.html
+* First PoCC-initiated hard fork Burst Wallet release: https://github.com/PoC-Consortium/burstcoin/releases/tag/2.2.0
 
 
 ## Dymaxion Fork (in 2018 / at Block 500k)
+* Hardfork Overview: https://www.reddit.com/r/burstcoin/comments/8h43g9/predymaxion_hard_fork
 * Burst Whitepaper: http://www.burst-coin.org/wp-content/uploads/2017/07/The-Burst-Dymaxion-1.00.pdf
-* Burst Fork Impact: https://ecomine.earth/dymaxionminerimpact
 * Burst Plot Optimization after Fork: https://github.com/PoC-Consortium/Utilities/tree/master/poc1to2.pl
+* First PoCC-initiated hard fork Burst Wallet release: https://github.com/PoC-Consortium/burstcoin/releases/tag/2.2.0
+* List of all pools supporting the hard fork: https://ecomine.earth/burstpools/
 
 
 ## BURST PLOTTING / MINING
@@ -37,8 +42,10 @@
 * Telegram (Mining): https://t.me/BurstCoinMining
 
 ### Mining Pools
+* List of all pools supporting the hard fork: https://ecomine.earth/burstpools/
 * Burst Pool Overview: https://www.ecomine.earth/burstpools
 * Burst PoCC Pools (0-100 / 50-50 / 100-0): https://burst.cryptoguru.org
+* Telegram Bot for [Burst PoCC 0-100 Pool](https://0-100-pool.burst.cryptoguru.org) @CGBurstPP_0_100_Bot
 
 ### Plotting Benchmark
 * Burst Plotting Benchmarks Overview: https://ecomine.earth/plottingbenchmarks
@@ -47,12 +54,12 @@
 * Overview: https://burstwiki.org/wiki/Plotter
 
 #### CPU Plotter
-* Recommended! CryptoGuru Optimized BURSTcoin Unix Plotter "CG_OBUP", successor of "OMDCCT" (Linux): https://github.com/rico666/cg_obup
-* Optimized Linux Burstcoin Plotter "OMDCCT", successor of "MDCCT" (Linux): https://github.com/alter3d/omdcct
-* Improved Linux BURST ploter, optimizer and miner "MDCCT" (Linux): https://github.com/Mirkic7/mdcct
+* CPU/GPU TurboPlotter (Windows & Linux): https://blackpawn.com/tp
+* CryptoGuru Optimized BURSTcoin Unix Plotter "CG_OBUP" (Linux): https://github.com/rico666/cg_obup
 
 #### GPU Plotter
 * GPU plot generator (Linux): https://github.com/bhamon/gpuPlotGenerator/releases
+* CPU/GPU TurboPlotter (Windows & Linux): https://blackpawn.com/tp
 * XPlotter (Windows): https://github.com/Blagodarenko/XPlotter
 
 ### Pots Checker
