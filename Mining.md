@@ -2,7 +2,7 @@
 
 ## Hardware
 
-#### Which Hardware requirements are important for mining?
+### Which Hardware requirements are important for mining?
 
 #### CPU
 * CPU threads: 1 per drive best. up to 3 drives per thread acceptable
