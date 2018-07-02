@@ -1,10 +1,14 @@
 # BURST Plotting
 
 ## Hardware
-* CPU with high plotting benchmark value: https://ecomine.earth/plottingbenchmarks
 
 #### Which Hardware requirements are important for plotting?
-* For plotting, it's about random write speed of the disk, and the CPU/RAM or GPU if you want to go that route.
+
+##### CPU
+* CPU with high plotting benchmark value: https://ecomine.earth/plottingbenchmarks
+
+##### HDD
+* High random write speed of the disk
 
 
 ## Software
