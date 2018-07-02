@@ -1,7 +1,19 @@
 # BURST Mining
 
 ## Hardware
-* 
+
+#### CPU
+* CPU threads: 1 per drive best. up to 3 drives per thread acceptable
+
+#### RAM
+* enough to run OS + 2 GB
+
+#### HDD
+* HDD technology: cheapest to provide greatest space
+* HDD capacity: as much as possible
+* HDD interface (SAS or SATA): both good, hard drive cannot saturate, does not matter
+* RAID: not needed, not of use
+* HDD controller: Directly connected to board or a JBOD controller is best
 
 ## Software
 
@@ -34,16 +46,5 @@ Depending on the mining capacity select one of the following pools (see https://
 #### What is the max. acceptable read time for mining?
 * Max. read time is 1 minute
 * Read time for BEST Performance <30 seconds
-
-#### How can read time be improved? Which hardware components should I pay attention to?
-* CPU threads: 1 per drive best. up to 3 drives per thread acceptable
-* RAM capacity: enough to run OS + 2 GB
-* HDD technology: cheapest to provide greatest space
-* HDD capacity: as much as possible
-* HDD interface (SAS or SATA): both good, hard drive cannot saturate, does not matter
-* RAID: not needed, not of use
-* Controller specification (e.g. internal RAM)
-
-#### In which way should I connect SATA or SAS drives?
-* Directly to board or a JBOD controller is best
+* Hint: If you are not finished before the deadline, you have given away the rest of the disk capacity!
 
